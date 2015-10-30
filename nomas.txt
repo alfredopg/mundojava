@@ -1,2 +1,7 @@
-prueba de hit hub 3
+public class holamundo
 {
+ public static void main(String args[])
+	{
+	 System.out.println("HolaMundo");
+	}
+}
